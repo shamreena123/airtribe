@@ -1,0 +1,100 @@
+.todo-sections{
+
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+
+li {
+  position: relative;
+  width: 100%;
+  padding: 5px;
+  margin: 3px;
+  border: 1px solid grey;
+  border-radius: 8px;
+  background-color: white;
+  cursor: pointer; 
+}
+
+#newbtn{
+  border: none;
+  color: gray;
+  background-color: white;
+  padding: 3px;
+  cursor: pointer;
+}
+
+#add{
+  border: none;
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  padding: 3px;
+  cursor: pointer;
+  margin: 3px;
+}
+
+
+
+
+
+
+/*.todo-sections {
+  min-width: 100%;
+  padding: 10px;
+  display: flex;
+}
+
+.todo-section h2 {
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.not-started {
+  background-color: rgba(255, 0, 0, 0.3); 
+}
+
+.in-progress {
+  background-color: rgba(255, 255, 0, 0.3); 
+}
+
+.completed {
+  background-color: rgba(0, 255, 0, 0.3); 
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.todo-container {
+    
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+li {
+  margin: 5px 0;
+  padding: 5px;
+  border: 1px solid #eee;
+  background-color: #f9f9f9;
+  cursor: pointer; 
+}
+
+.fade-enter-active, .fade-leave-active {
+    transition: opacity 0.5s;
+}
+.fade-enter, .fade-leave-to {
+    opacity: 0;
+}*/
+
